@@ -1,0 +1,6 @@
+{
+  "name": "CHHAVA - Luxury Indian Fashion",
+  "description": "Wear Your Identity. Premium Indian clothing brand featuring contemporary luxury apparel, kurtas, jackets, shirts, hoodies, and bespoke fashion collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
